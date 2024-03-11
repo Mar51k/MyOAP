@@ -1,0 +1,10 @@
+C:\Users\димарик\source\repos\date\bin\Debug\date.exe.config
+C:\Users\димарик\source\repos\date\bin\Debug\date.exe
+C:\Users\димарик\source\repos\date\bin\Debug\date.pdb
+C:\Users\димарик\source\repos\date\obj\Debug\date.csproj.AssemblyReference.cache
+C:\Users\димарик\source\repos\date\obj\Debug\date.Form1.resources
+C:\Users\димарик\source\repos\date\obj\Debug\date.Properties.Resources.resources
+C:\Users\димарик\source\repos\date\obj\Debug\date.csproj.GenerateResource.cache
+C:\Users\димарик\source\repos\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+C:\Users\димарик\source\repos\date\obj\Debug\date.exe
+C:\Users\димарик\source\repos\date\obj\Debug\date.pdb

@@ -1,0 +1,10 @@
+C:\Users\димарик\source\repos\logarithm\bin\Debug\logarithm.exe.config
+C:\Users\димарик\source\repos\logarithm\bin\Debug\logarithm.exe
+C:\Users\димарик\source\repos\logarithm\bin\Debug\logarithm.pdb
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.csproj.AssemblyReference.cache
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.Form1.resources
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.Properties.Resources.resources
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.csproj.GenerateResource.cache
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.csproj.CoreCompileInputs.cache
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.exe
+C:\Users\димарик\source\repos\logarithm\obj\Debug\logarithm.pdb
